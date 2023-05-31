@@ -7,3 +7,10 @@ server for facerecognition web application
 - create .env file and replace with your own environment variables 
 - run npm install 
 - run npm start
+
+# Technologies
+- Node.js
+- Express.js
+- Knex.js
+- Postgresql
+- clarifai grpc 
